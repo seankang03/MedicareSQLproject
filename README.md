@@ -16,7 +16,7 @@ To uncover hospitals with Medicare reimbursement significantly above the nationa
   - A **cost per covered day of $43,446**, indicating extreme pricing intensity
 - Discrepancy between **charges vs actual payments** highlights potential overbilling or DRG coding review opportunities
 
-## 🧾 SQL Queries Included
+## SQL Queries Included
 
 All queries are modular and located in [`/queries`](./queries/):
 
