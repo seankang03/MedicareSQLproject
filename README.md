@@ -37,4 +37,15 @@ Original dataset available at:
 
 ## Author
 
-Built by [Your Name] as part of a personal analytics + strategy portfolio.
+Built by Sean Kang as part of a personal analytics + strategy portfolio.
+
+## 🔍 Insight #2: Dual-Eligible Patient Spend Inefficiencies
+
+Using Medicare claims data, I analyzed cost per dual-eligible patient (those enrolled in both Medicare and Medicaid) to uncover inefficiencies in care delivery. Several hospitals showed extremely high average costs — up to **$611K per patient**, far above the national norm.
+
+A follow-up comparison between dual and non-dual patient costs revealed large disparities at some facilities, suggesting care coordination breakdowns or misaligned financial incentives.
+
+In addition, a state-level breakdown identified regions with systematically higher dual-eligible costs, potentially indicating structural gaps in access, provider behavior, or patient support programs.
+
+📌 *Strategic Recommendation:* Prioritize targeted care management programs, investigate coding and DRG usage, and consider bundled payment or ACO models to improve dual-eligible patient efficiency.
+
